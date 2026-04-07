@@ -1,9 +1,3 @@
-[submodule "lib/openzeppelin-contracts"]
-	path = lib/openzeppelin-contracts
-	url = https://github.com/OpenZeppelin/openzeppelin-contracts
 [submodule "ERC20/lib/forge-std"]
 	path = ERC20/lib/forge-std
-	url = https://github.com/foundry-rs/forge-std
-[submodule "lib/forge-std"]
-	path = lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
